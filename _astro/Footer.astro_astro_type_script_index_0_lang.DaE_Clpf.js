@@ -1,0 +1,1 @@
+import{t as e}from"./gsap.CvDoa17S.js";import{t}from"./ScrollTrigger.C7HwZxAz.js";window.matchMedia(`(prefers-reduced-motion: reduce)`).matches||(e.registerPlugin(t),e.fromTo(`[data-footer-in]`,{yPercent:-45},{yPercent:0,ease:`none`,scrollTrigger:{trigger:`[data-footer]`,start:`top bottom`,end:`bottom bottom`,scrub:!0}}));
